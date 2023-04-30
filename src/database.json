@@ -1,0 +1,50 @@
+[
+  {
+    "title": "O GRANDE LIVRO DE RACIOCÍNIO E LÓGICA",
+    "description": "Os jogos de raciocínio e lógica apresentados neste livro são ótimos exercícios para o cérebro. Será que você está preparado para este desafio?",
+    "price": 22.99,
+    "image": "https://m.media-amazon.com/images/I/51lFoaqztpS._SX341_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "Como pensar com lógica",
+    "description": "A capacidade de pensar logicamente ajudará você a tomar decisões eficazes e fundamentadas, mesmo diante de situações estressantes.",
+    "price": 15.90,
+    "image": "https://m.media-amazon.com/images/I/61KxDgtdycS.jpg"
+  },
+  {
+    "title": "Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos",
+    "description": "O livro Entendendo Algoritmos apresenta uma abordagem agradável para esse tópico essencial da ciência da computação",
+    "price": 55.50,
+    "image": "https://m.media-amazon.com/images/I/71Vkg7GfPFL.jpg"
+  },
+  {
+    "title": "Aprendendo lógica",
+    "description": "Os primeiros passos do desenvolvimento do raciocínio lógico são dados através da presente obra.",
+    "price": 37.50,
+    "image": "https://m.media-amazon.com/images/I/71JVIXrVVGL.jpg"
+  },
+  {
+    "title": "Algoritmos E Lógica Da Programação",
+    "description": "Com linguagem simples e didática – sem, no entanto, fugir da complexidade do assunto –, o livro procura tornar prática a lógica de programação, além de mostrar aos estudantes um caminho mais adequado na construção dos algoritmos.",
+    "price": 48.99,
+    "image":"https://m.media-amazon.com/images/I/6181C8xqUPL.jpg"
+  },
+  {
+    "title": "Caderno de exercícios para descobrir os seus talentos ocultos",
+    "description": "Se você decidir que é mais fácil provocar do que encontrar a sorte, passará a agir pensando que não se deve esperá-la cair do céu; é preciso buscá-la. Este caderno trás exercícios para ajudar o leitor a identificar e desenvolver seus talentos e pontos fortes.",
+    "price": 5.99,
+    "image": "https://m.media-amazon.com/images/I/816kIR6HYTL.jpg"
+  },
+  {
+    "title": "Coleção mente afiada - Memória poderosa",
+    "description": "Muito além de lembrar compromissos e datas, as funções da memória definem mais do que se imagina em relação à conduta dos indivíduos, influenciado a personalidade, comportamento e até criatividade, já que se trata de uma espécie de banco de dados de tudo aquilo que foi aprendido e absorvido pelo cérebro durante a vida.",
+    "price": 14.90,
+    "image": "https://m.media-amazon.com/images/I/61BmwqIZjoL.jpg"
+  },
+  {
+    "title": "Estimulação do raciocínio abstrato",
+    "description": "O livro oferece um treino cognitivo para auxiliar na reabilitação/estimulação de adultos com dificuldades cognitivas gerais e específicas relacionadas a funções executivas ou que desejem favorecer o desenvolvimento dessas funções.",
+    "price": 55.50,
+    "image": "https://m.media-amazon.com/images/I/71wg8m3ghkL.jpg"
+  },
+]
